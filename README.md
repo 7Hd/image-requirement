@@ -2,7 +2,7 @@
 
 ## 背景圖
 
-![main](./pg-link-bg.png)
+![main](raw/pg-link-bg.png)
 
 ## 按鈕
 
