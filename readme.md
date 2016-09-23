@@ -30,7 +30,16 @@
 
 ## ICON
 
+`以下圖片請製作透明底。`
 
+### BP Monitor
+
+![bpmonitor](01baec4fa2158d0c407f3bc6f2de6f4d/raw/bpmonitor.png)
+
+
+### Computer
+
+![computer](01baec4fa2158d0c407f3bc6f2de6f4d/raw/computer.png)
 
 
 ## 按鈕
