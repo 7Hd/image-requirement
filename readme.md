@@ -11,21 +11,21 @@
 
 ### 測量背景圖
 
-測量背景圖片可參考下圖([原始程式執行畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome.png))。
+測量背景圖片可參考下圖([原始程式執行畫面擷圖請點我](img/welcome.png))。
 
-![welcome](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome-withoutword.png)
+![welcome](img/welcome-withoutword.png)
 
 
 ### 歷史紀錄背景圖
 
-[原始程式執行畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history.png)。
+[原始程式執行畫面擷圖請點我](img/history.png)。
 
-![history](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history-withoutword.png)
+![history](img/history-withoutword.png)
 
 
 ### 分析頁背景圖
 
-![analysis](01baec4fa2158d0c407f3bc6f2de6f4d/raw/analysis-withoutword.png)
+![analysis](img/analysis-withoutword.png)
 
 
 ## ICON
@@ -34,28 +34,28 @@
 
 ### BP Monitor
 
-![bpmonitor](01baec4fa2158d0c407f3bc6f2de6f4d/raw/bpmonitor.png)
+![bpmonitor](img/bpmonitor.png)
 
 
 ### Computer
 
-![computer](01baec4fa2158d0c407f3bc6f2de6f4d/raw/computer.png)
+![computer](img/computer.png)
 
 
 ## 按鈕
 
 ### 主頁面
 
-請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/mainpage.png)。
+請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/mainpage.png)。
 
-![mainpage-btn](01baec4fa2158d0c407f3bc6f2de6f4d/raw/mainpage-btn.png)
+![mainpage-btn](img/mainpage-btn.png)
 
 
 ### 圖表畫面按鈕
 
-請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history.png)。
+請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/history.png)。
 
-![history-btn](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history-btn.png)
+![history-btn](img/history-btn.png)
 
 
 ### 測量畫面按鈕
