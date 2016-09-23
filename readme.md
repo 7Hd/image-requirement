@@ -60,8 +60,16 @@
 
 ### 測量畫面按鈕
 
+請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/measure.png)。
+
+![measure-btn](img/measure-btn.png)
 
 
+### 分析頁按鈕
+
+請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/analysis.png)。
+
+![analysis-btn](img/analysis-btn.png)
 
 
 # 參考
