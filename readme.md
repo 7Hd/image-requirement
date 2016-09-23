@@ -24,7 +24,7 @@
 
 ## 背景圖
 
-`產出的圖片請勿包含示意圖中的點。`
+`製作的圖片不必包含示意圖中的點。`
 
 ### 測量背景圖
 
@@ -87,6 +87,10 @@
 請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/analysis.png)。
 
 ![analysis-btn](img/analysis-btn.png)
+
+[下圖的無框畫面請點我](img/analysis-sub.png)。
+
+![analysis-sub-btn](img/analysis-sub-btn.png)
 
 
 # 參考
