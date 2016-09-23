@@ -63,32 +63,32 @@
 
 ### 主頁面按鈕
 
-請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/mainpage.png)。
+請製作下圖中紅框圈起來的按鈕圖片，[原始畫面擷圖請點我](img/mainpage.png)。
 
 ![mainpage-btn](img/mainpage-btn.png)
 
 
 ### 圖表畫面按鈕
 
-請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/history.png)。
+請製作下圖中紅框圈起來的按鈕圖片，[原始畫面擷圖請點我](img/history.png)。
 
 ![history-btn](img/history-btn.png)
 
 
 ### 測量畫面按鈕
 
-請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/measure.png)。
+請製作下圖中紅框圈起來的按鈕圖片，[原始畫面擷圖請點我](img/measure.png)。
 
 ![measure-btn](img/measure-btn.png)
 
 
 ### 分析頁按鈕
 
-請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](img/analysis.png)。
+請製作下圖中紅框圈起來的按鈕圖片，[原始畫面擷圖請點我](img/analysis.png)。
 
 ![analysis-btn](img/analysis-btn.png)
 
-[下圖的無框畫面請點我](img/analysis-sub.png)。
+[下圖的無紅框畫面請點我](img/analysis-sub.png)。
 
 ![analysis-sub-btn](img/analysis-sub-btn.png)
 
