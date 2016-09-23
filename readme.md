@@ -44,6 +44,24 @@
 
 ## 按鈕
 
+### 主頁面
+
+請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/mainpage.png)。
+
+![mainpage-btn](01baec4fa2158d0c407f3bc6f2de6f4d/raw/mainpage-btn.png)
+
+
+### 圖表畫面按鈕
+
+請製作下圖中紅框包起來的按鈕圖片，[原始畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history.png)。
+
+![history-btn](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history-btn.png)
+
+
+### 測量畫面按鈕
+
+
+
 
 
 # 參考
