@@ -2,6 +2,8 @@
 
 ## 背景圖
 
+![welcome](raw/welcome.png)
+
 ![main](raw/pg-link-bg.png)
 
 ## 按鈕
