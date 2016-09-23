@@ -2,9 +2,9 @@
 
 ## 背景圖
 
-![welcome](raw/welcome.png)
+![welcome](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome.png)
 
-![main](raw/pg-link-bg.png)
+![main](01baec4fa2158d0c407f3bc6f2de6f4d/raw/pg-link-bg.png)
 
 ## 按鈕
 
