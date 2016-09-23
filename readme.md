@@ -1,10 +1,18 @@
+
+
+
 # 圖片需求
+
+`以下圖片點開可看原圖，圖片大小請參考原始圖片。`
 
 ## 背景圖
 
-![welcome](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome.png)
+背景圖片可參考下圖([原始圖片請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome.png))，請製作紅框以外的區域。
 
-![main](01baec4fa2158d0c407f3bc6f2de6f4d/raw/pg-link-bg.png)
+![welcome](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome-red.png)
+
+
+## ICON
 
 ## 按鈕
 
