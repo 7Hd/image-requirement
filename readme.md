@@ -7,12 +7,31 @@
 
 ## 背景圖
 
-背景圖片可參考下圖([原始圖片請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome.png))，請製作紅框以外的區域。
+`產出的圖片請勿包含示意圖中的點。`
 
-![welcome](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome-red.png)
+### 測量背景圖
+
+測量背景圖片可參考下圖([原始程式執行畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome.png))。
+
+![welcome](01baec4fa2158d0c407f3bc6f2de6f4d/raw/welcome-withoutword.png)
+
+
+### 歷史紀錄背景圖
+
+[原始程式執行畫面擷圖請點我](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history.png)。
+
+![history](01baec4fa2158d0c407f3bc6f2de6f4d/raw/history-withoutword.png)
+
+
+### 分析頁背景圖
+
+![analysis](01baec4fa2158d0c407f3bc6f2de6f4d/raw/analysis-withoutword.png)
 
 
 ## ICON
+
+
+
 
 ## 按鈕
 
