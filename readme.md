@@ -30,6 +30,8 @@
 
 測量背景圖片可參考下圖([原始程式執行畫面擷圖請點我](img/welcome.png))。
 
+**背景圖尺寸請以此圖為主，圖片不必包含系統框(深藍色範圍)。**
+
 ![welcome](img/welcome-withoutword.png)
 
 
